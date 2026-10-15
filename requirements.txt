@@ -1,0 +1,9 @@
+langchain
+langchain-classic
+langchain-community
+langchain-openai
+pandas
+datasets
+tavily-python
+python-dotenv
+openai
